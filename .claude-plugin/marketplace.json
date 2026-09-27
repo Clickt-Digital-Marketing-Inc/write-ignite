@@ -1,0 +1,16 @@
+{
+  "name": "write-ignite",
+  "owner": {
+    "name": "Clickt Digital Marketing"
+  },
+  "metadata": {
+    "description": "Sales-page planning, drafting and review for Codex and Claude Code, with no-ai-slop foundations."
+  },
+  "plugins": [
+    {
+      "name": "write-ignite",
+      "source": "./plugins/write-ignite",
+      "description": "Sales-page planning, drafting and review with no-ai-slop foundations."
+    }
+  ]
+}

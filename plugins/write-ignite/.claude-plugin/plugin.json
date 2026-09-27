@@ -1,0 +1,9 @@
+{
+  "name": "write-ignite",
+  "version": "0.1.0",
+  "description": "Unofficial sales-page planning, drafting and review using Write & Ignite methods and no-ai-slop foundations.",
+  "author": {
+    "name": "John Greenhow"
+  },
+  "repository": "https://github.com/Clickt-Digital-Marketing-Inc/write-ignite"
+}

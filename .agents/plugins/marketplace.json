@@ -1,0 +1,20 @@
+{
+  "name": "write-ignite",
+  "interface": {
+    "displayName": "Write Ignite"
+  },
+  "plugins": [
+    {
+      "name": "write-ignite",
+      "source": {
+        "source": "local",
+        "path": "./plugins/write-ignite"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

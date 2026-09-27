@@ -1,0 +1,19 @@
+{
+  "name": "write-ignite",
+  "version": "0.1.0",
+  "description": "Unofficial sales-page planning, drafting and review using Write & Ignite methods and no-ai-slop foundations.",
+  "author": {
+    "name": "John Greenhow"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Write & Ignite Sales Page Toolkit",
+    "shortDescription": "Turn a real offer into a clear, credible sales page.",
+    "longDescription": "An unofficial toolkit for developing an offer, planning a sales page, writing original brand copy and reviewing it against the core Write & Ignite resources. Peter Yang's no-ai-slop rules and evaluation apply throughout. Includes source coverage and practical checks for unsupported claims.",
+    "developerName": "John Greenhow",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": "Use the sales-page skill to turn my offer and supporting evidence into a complete sales-page draft, then review it."
+  },
+  "repository": "https://github.com/Clickt-Digital-Marketing-Inc/write-ignite"
+}
